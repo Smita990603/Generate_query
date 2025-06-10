@@ -1,4 +1,4 @@
-
+<details>
 <summary>Automated Data Query and Retrieval System</summary>
 
 This system allows users to query and retrieve data from a MongoDB database using natural language inputs, leveraging offline (free & open-source) Large Language Models (LLMs). The system supports loading data from CSV files into MongoDB, generating dynamic MongoDB queries based on user input, and presenting the retrieved data in a human-readable format or saving it to a new CSV file.
